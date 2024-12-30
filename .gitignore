@@ -1,0 +1,8 @@
+# Ignore everything in the data folder
+data/*
+
+# Ignore specific data file types
+*.csv
+*.json
+*.txt
+*.log
