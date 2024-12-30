@@ -54,4 +54,5 @@
 ---
 
 **Summary:**
-Each model progressively improves in terms of size, accuracy, and performance. Model 3 achieves the best balance between efficiency and accuracy while incorporating advanced techniques like augmentation and scheduling.
+- Each model progressively improves in terms of size, accuracy, and performance.
+- Model 3 achieves the best balance between efficiency and accuracy while incorporating advanced techniques like augmentation and scheduling.
